@@ -1,5 +1,7 @@
 # react-touch-zoom
 
+[![npm](https://img.shields.io/npm/v/react-touch-zoom.svg)](https://www.npmjs.com/package/react-touch-zoom)
+
 Zoom and pan into any content on a touch device.
 
 * Zoom with two fingers
